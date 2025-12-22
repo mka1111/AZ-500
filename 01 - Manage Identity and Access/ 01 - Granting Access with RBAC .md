@@ -101,6 +101,49 @@
 <img width="981" height="523" alt="image" src="https://github.com/user-attachments/assets/77bee250-066c-4e0e-b35d-9710f381e4c3" />
 
 
+<img width="1063" height="205" alt="image" src="https://github.com/user-attachments/assets/ec64818a-5890-4455-b99d-f0ee8a819d87" />
+
+
+# To assignments  yo need to go into the Role
+<img width="1445" height="446" alt="image" src="https://github.com/user-attachments/assets/02dd2de2-86aa-48a7-b97d-bee626c4d8ce" />
+
+# Tp see the same in the json format v
+<img width="1779" height="402" alt="image" src="https://github.com/user-attachments/assets/c33cafa2-fd4d-41cc-9d1e-496d7c96e038" />
+
+
+# Assigning Azure RBAC Built-in Role
+
+
+# How to elevate access to global Admin
+## Go to Entra ID -> Overview -> properties
+
+<img width="773" height="279" alt="image" src="https://github.com/user-attachments/assets/33b415b7-4186-4b69-9cf6-fd2725616c03" />
+
+
+## Mark Access maangment for Azure Resources
+<img width="1479" height="799" alt="image" src="https://github.com/user-attachments/assets/4dba7a29-5fbf-41c5-adb0-e1dd9961f39d" />
+
+## To confirm User is elevated to Root (Inherieted)
+<img width="1277" height="729" alt="image" src="https://github.com/user-attachments/assets/63231efb-c25e-4200-8a56-819ef3c35d02" />
+
+<img width="1063" height="186" alt="image" src="https://github.com/user-attachments/assets/949e68ea-d395-4a2f-9d3d-fd365261ad8d" />
+
+
+
+## Asigning privilege to Administrative role right to work with VMachines.
+
+### Go IAM -> Roles -> Privileged administrator roles 
+<img width="862" height="366" alt="image" src="https://github.com/user-attachments/assets/b498a4f0-bc46-4176-af56-d931c26368eb" />
+
+
+# Yo cannot perform 'Role Assigment with Contributor Role' to have ability to 'Role assigment' you need to have 'User Access Administrator'
+
+
+<img width="1625" height="212" alt="image" src="https://github.com/user-attachments/assets/4bcb1343-755f-4c51-b489-374303c53ae2" />
+
+
+
+
 
 
 
