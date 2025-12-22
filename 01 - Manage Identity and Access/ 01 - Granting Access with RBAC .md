@@ -141,6 +141,33 @@
 
 <img width="1625" height="212" alt="image" src="https://github.com/user-attachments/assets/4bcb1343-755f-4c51-b489-374303c53ae2" />
 
+# We can use job function roles - which is better way to provied permission to VM resources.
+
+<img width="656" height="170" alt="image" src="https://github.com/user-attachments/assets/38bdfb18-d1a5-48e0-b4fd-297a3f9a342e" />
+
+<img width="1576" height="83" alt="image" src="https://github.com/user-attachments/assets/d3648edf-dd7b-4889-adcd-7f29b32bc77f" />
+
+<img width="1040" height="382" alt="image" src="https://github.com/user-attachments/assets/ef854c4b-9841-4ebd-90ba-e2267b4309d6" />
+
+## to add this we go Assignments and Add assignment
+
+<img width="696" height="303" alt="image" src="https://github.com/user-attachments/assets/61ad5cf6-ccb6-4eb7-a1a1-37e5b4775826" />
+
+
+# Task crate Permision onyyy Start Stop for Developers
+
+<img width="583" height="308" alt="image" src="https://github.com/user-attachments/assets/5620b0da-87c3-4012-86a3-fa5878430f80" />
+
+
+<img width="813" height="409" alt="image" src="https://github.com/user-attachments/assets/c9375474-b2de-4342-bd27-3fef3beb148d" />
+
+## As we have new Role we need to add new Mermisson - press the Add permissions.
+
+<img width="596" height="294" alt="image" src="https://github.com/user-attachments/assets/d4e48026-7f83-4081-8b6e-df5fe112e6c5" />
+
+<img width="1358" height="732" alt="image" src="https://github.com/user-attachments/assets/cc540801-63cd-4cf0-a53b-ef7475382cfc" />
+
+
 
 
 
