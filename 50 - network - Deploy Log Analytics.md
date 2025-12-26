@@ -64,6 +64,24 @@ Note: Wait for the deployment of the Data Collection Endpoint and Log Analytics 
 
 # Collect IIS Logs
 
+
+<img width="578" height="84" alt="image" src="https://github.com/user-attachments/assets/b2e94028-a8d6-4404-b132-4e143a2b57d8" />
+
+<img width="883" height="639" alt="image" src="https://github.com/user-attachments/assets/706b3d1a-516e-463c-8065-41e4f8a9ea52" />
+
+We need to add resources
+<img width="1908" height="578" alt="image" src="https://github.com/user-attachments/assets/2b4865e9-54cf-4a49-8afb-17b4e25d8702" />
+
+<img width="1922" height="591" alt="image" src="https://github.com/user-attachments/assets/27680fa2-5c27-4ea0-9a92-449c0ceed788" />
+
+<img width="1862" height="504" alt="image" src="https://github.com/user-attachments/assets/07cd44a7-7b4c-4bef-a05d-82c40be2713e" />
+
+
+
+
+
+
+
 <img width="1173" height="940" alt="image" src="https://github.com/user-attachments/assets/c8836a4e-2aa9-4772-9846-c638d8061183" />
 
 
@@ -96,4 +114,34 @@ Click Create.
 
 
 # Enable Sentinel
+
+
+
+
+
+<img width="962" height="271" alt="image" src="https://github.com/user-attachments/assets/1e5fb4b6-0599-4aef-a013-529d22f28ad4" />
+
+<img width="1226" height="404" alt="image" src="https://github.com/user-attachments/assets/aa29cf12-b7db-44ef-9709-6a4099806bb6" />
+
+
+
+
+
 # Install the Web Session Essentials Solution
+
+
+## Content Hub place with rules ??? 
+
+
+```
+Install the Web Session Essentials Solution
+From the left menu, under Content management, select Content hub.
+
+In the search bar, type and select Web Session Essentials.
+
+On the right information panel, click Install.
+
+Wait for the content to be installed.
+
+Note: For the real world, just be aware that we've already configured log collection from our webserver, so we don't need to configure a data connector, but many other solutions will require a Data connector to be configured after installing the solution
+```
