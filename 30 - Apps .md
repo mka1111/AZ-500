@@ -40,8 +40,35 @@ Also this is to veryfy publisher
 
 
 
+example of the Service Principal  after accepting consent 
+
+<img width="1909" height="396" alt="image" src="https://github.com/user-attachments/assets/0ac5eb02-f67a-4835-bd74-4f32442c799e" />
 
 
+
+# API Permissions & Access Cocept
+
+<img width="1797" height="772" alt="image" src="https://github.com/user-attachments/assets/39cddcf2-bc66-404d-94b2-1f1687f07898" />
+
+
+## See the differences between one tenant and multi tenant for  API permissions
+
+
+<img width="1891" height="863" alt="image" src="https://github.com/user-attachments/assets/2ab89ee2-6c76-4969-89f1-b69728808af0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
