@@ -25,6 +25,9 @@ but we can see diffrent login url :
 
 
 After user grab consent  Service principal is created on user Teneant ID
+Also this is to veryfy publisher
+<img width="539" height="162" alt="image" src="https://github.com/user-attachments/assets/bb7b07c9-86ab-4c13-9c2d-6dd420fcaa6b" />
+
 
 <img width="1439" height="625" alt="image" src="https://github.com/user-attachments/assets/f8d98cd9-77b5-4815-a485-275d8621b84a" />
 
