@@ -18,3 +18,11 @@ Example of app
 
 Registration the application -> establish trust relationship between the app and microsoft Identity Platform
 
+# Two configuration for tenent 
+
+
+<img width="1235" height="408" alt="image" src="https://github.com/user-attachments/assets/414963e9-5221-4025-a2b2-f5a2dc3b8fa8" />
+
+# External only for 
+<img width="1206" height="410" alt="image" src="https://github.com/user-attachments/assets/c3023baf-0a4c-4f13-968c-e0584b3a57b6" />
+
